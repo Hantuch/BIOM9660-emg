@@ -1,4 +1,6 @@
 Participant,Condition,Muscle,RMS,Direction,Load
+Hanif,baseline,Biceps,4.6552823e-06,Up,baseline
+Hanif,baseline,Brachioradialis,1.7559732e-05,Up,baseline
 Hanif,arm_up,Biceps,3.0536477e-05,Up,arm
 Hanif,arm_up,Brachioradialis,1.714539e-05,Up,arm
 Hanif,1kg_up,Biceps,5.7890837e-05,Up,1kg
@@ -15,6 +17,8 @@ Hanif,1kg_down,Biceps,8.586546e-05,Down,1kg
 Hanif,1kg_down,Brachioradialis,2.1584383e-05,Down,1kg
 Hanif,arm_down,Biceps,4.2068586e-05,Down,arm
 Hanif,arm_down,Brachioradialis,1.9769428e-05,Down,arm
+Bharghav,baseline,Biceps,3.5458074e-06,Up,baseline
+Bharghav,baseline,Brachioradialis,7.3579563e-06,Up,baseline
 Bharghav,arm_up,Biceps,1.295814e-05,Up,arm
 Bharghav,arm_up,Brachioradialis,9.810431e-06,Up,arm
 Bharghav,1kg_up,Biceps,3.6739606e-05,Up,1kg
@@ -31,6 +35,8 @@ Bharghav,1kg_down,Biceps,4.235998e-05,Down,1kg
 Bharghav,1kg_down,Brachioradialis,2.6714883e-05,Down,1kg
 Bharghav,arm_down,Biceps,1.7914674e-05,Down,arm
 Bharghav,arm_down,Brachioradialis,1.5388607e-05,Down,arm
+Sam,baseline,Biceps,1.8205985e-05,Up,baseline
+Sam,baseline,Brachioradialis,1.7961062e-05,Up,baseline
 Sam,arm_up,Biceps,2.3471244e-05,Up,arm
 Sam,arm_up,Brachioradialis,2.2136855e-05,Up,arm
 Sam,1kg_up,Biceps,2.6076783e-05,Up,1kg
